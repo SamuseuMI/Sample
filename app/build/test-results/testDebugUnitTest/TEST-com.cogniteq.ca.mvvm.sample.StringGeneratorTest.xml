@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cogniteq.ca.mvvm.sample.StringGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-30T11:27:54" hostname="pc89-mbp.local" time="0.002">
+  <properties/>
+  <testcase name="generateRandomString_isNotNull" classname="com.cogniteq.ca.mvvm.sample.StringGeneratorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

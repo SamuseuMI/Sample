@@ -1,0 +1,2 @@
+com/cogniteq/ca/mvvm/android/sample/test/BuildConfig.java
+ com.cogniteq.ca.mvvm.android.sample.test.BuildConfig

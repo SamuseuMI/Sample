@@ -1,0 +1,101 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: "kotlin-kapt"
+apply plugin: 'realm-android'
+apply plugin: 'com.jakewharton.butterknife'
+apply plugin: "androidx.navigation.safeargs"
+
+android {
+    compileSdkVersion 31
+    defaultConfig {
+        applicationId "com.cogniteq.ca.mvvm.android.sample"
+        minSdkVersion 23
+        targetSdkVersion 31
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8.toString()
+    }
+
+    buildscript {
+        repositories {
+            jcenter()
+        }
+        dependencies {
+            classpath "io.realm:realm-gradle-plugin:10.11.1"
+        }
+    }
+    testOptions.unitTests.returnDefaultValues = true
+    testOptions.unitTests.includeAndroidResources = true
+    testOptions.unitTests.all {
+        testLogging {
+            events 'passed', 'skipped', 'failed', 'standardOut', 'standardError'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    // ui
+    implementation 'androidx.appcompat:appcompat:1.4.2'
+    implementation 'com.google.android.material:material:1.6.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+
+    // view binding
+    implementation 'com.jakewharton:butterknife:10.2.1'
+    kapt 'com.jakewharton:butterknife-compiler:10.2.1'
+
+    // ui utils
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0'
+
+    // data storage
+    implementation 'androidx.room:room-ktx:2.4.0'
+    kapt 'androidx.room:room-compiler:2.4.0'
+    implementation 'androidx.room:room-runtime:2.4.0'
+    implementation "androidx.preference:preference:1.1.0"
+
+    // network
+    implementation 'com.squareup.retrofit2:retrofit:2.5.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.12.0'
+
+    // navigation
+    implementation 'androidx.navigation:navigation-fragment:2.3.0-alpha04'
+    implementation 'androidx.navigation:navigation-ui:2.3.0-alpha04'
+
+    // logging
+    implementation 'com.jakewharton.timber:timber:4.7.1'
+
+    //coroutines
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.5'
+
+    //koin
+    implementation 'org.koin:koin-core:2.1.5'
+    implementation 'org.koin:koin-androidx-viewmodel:2.1.5'
+    androidTestImplementation 'org.koin:koin-test:2.1.5'
+
+    // unit tests
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    testImplementation 'org.mockito:mockito-core:2.25.0'
+
+    // ui tests
+    implementation 'com.kaspersky.android-components:kaspresso:1.4.1'
+}

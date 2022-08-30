@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="registration_failed">Registration failed</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address_registration">Email address</string>
+    <string name="password_registration">password</string>
+</resources>

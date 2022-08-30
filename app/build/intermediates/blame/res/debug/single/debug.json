@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_bg_support_successful_circle.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/bg_support_successful_circle.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/layout_fragment_start.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/layout/fragment_start.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_ic_logo.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/ic_logo.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/layout_activity_start.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/layout/activity_start.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/layout_fragment_info.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_ic_monochrome_photos.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/ic_monochrome_photos.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_ic_person.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/ic_person.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/navigation_app_navigation.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/navigation/app_navigation.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_ic_keyboard_backspace.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/ic_keyboard_backspace.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_ic_lock_open.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/ic_lock_open.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/layout_fragment_registration.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/layout/fragment_registration.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/layout_fragment_login.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/layout/fragment_login.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_ic_support_successful.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/ic_support_successful.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_ic_background_crop.jpg.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/ic_background_crop.jpg"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_ic_mail_outline.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/ic_mail_outline.xml"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sammaks95/Projects/project-assist/app/build/intermediates/res/merged/debug/drawable_bg_support_successful.xml.flat",
+        "source": "/Users/sammaks95/Projects/project-assist/app/src/main/res/drawable/bg_support_successful.xml"
+    }
+]

@@ -1,0 +1,55 @@
+com/cogniteq/ca/mvvm/sample/presentation/screen/registration/RegistrationFragment_ViewBinding.java
+ com.cogniteq.ca.mvvm.sample.presentation.screen.registration.RegistrationFragment_ViewBinding
+ com.cogniteq.ca.mvvm.sample.presentation.screen.registration.RegistrationFragment_ViewBinding$1
+io/realm/com_cogniteq_ca_mvvm_sample_data_realm_model_AuthModelRealmProxy.java
+ io.realm.com_cogniteq_ca_mvvm_sample_data_realm_model_AuthModelRealmProxy
+ io.realm.com_cogniteq_ca_mvvm_sample_data_realm_model_AuthModelRealmProxy$AuthModelColumnInfo
+ io.realm.com_cogniteq_ca_mvvm_sample_data_realm_model_AuthModelRealmProxy$ClassNameHelper
+com/cogniteq/ca/mvvm/sample/presentation/screen/auth/StartFragment_ViewBinding.java
+ com.cogniteq.ca.mvvm.sample.presentation.screen.auth.StartFragment_ViewBinding
+io/realm/DefaultRealmModule.java
+ io.realm.DefaultRealmModule
+com/cogniteq/ca/mvvm/sample/presentation/screen/login/LoginFragmentDirections.java
+ com.cogniteq.ca.mvvm.sample.presentation.screen.login.LoginFragmentDirections
+com/cogniteq/ca/mvvm/sample/presentation/screen/login/LoginFragment_ViewBinding.java
+ com.cogniteq.ca.mvvm.sample.presentation.screen.login.LoginFragment_ViewBinding
+ com.cogniteq.ca.mvvm.sample.presentation.screen.login.LoginFragment_ViewBinding$1
+ com.cogniteq.ca.mvvm.sample.presentation.screen.login.LoginFragment_ViewBinding$2
+com/cogniteq/ca/mvvm/sample/data/sql/AppDatabase_Impl.java
+ com.cogniteq.ca.mvvm.sample.data.sql.AppDatabase_Impl
+ com.cogniteq.ca.mvvm.sample.data.sql.AppDatabase_Impl$1
+io/realm/DefaultRealmModuleMediator.java
+ io.realm.DefaultRealmModuleMediator
+com/cogniteq/ca/mvvm/sample/presentation/screen/auth/StartFragmentDirections.java
+ com.cogniteq.ca.mvvm.sample.presentation.screen.auth.StartFragmentDirections
+com/cogniteq/ca/mvvm/android/sample/BuildConfig.java
+ com.cogniteq.ca.mvvm.android.sample.BuildConfig
+io/realm/com_cogniteq_ca_mvvm_sample_data_realm_model_AuthModelRealmProxyInterface.java
+ io.realm.com_cogniteq_ca_mvvm_sample_data_realm_model_AuthModelRealmProxyInterface
+com/cogniteq/ca/mvvm/sample/presentation/screen/info/InfoFragment_ViewBinding.java
+ com.cogniteq.ca.mvvm.sample.presentation.screen.info.InfoFragment_ViewBinding
+ com.cogniteq.ca.mvvm.sample.presentation.screen.info.InfoFragment_ViewBinding$1
+com/cogniteq/ca/mvvm/sample/data/sql/datastore/info/InfoDao_Impl.java
+ com.cogniteq.ca.mvvm.sample.data.sql.datastore.info.InfoDao_Impl
+ com.cogniteq.ca.mvvm.sample.data.sql.datastore.info.InfoDao_Impl$1
+ com.cogniteq.ca.mvvm.sample.data.sql.datastore.info.InfoDao_Impl$2
+ com.cogniteq.ca.mvvm.sample.data.sql.datastore.info.InfoDao_Impl$3
+ com.cogniteq.ca.mvvm.sample.data.sql.datastore.info.InfoDao_Impl$4
+ com.cogniteq.ca.mvvm.sample.data.sql.datastore.info.InfoDao_Impl$5
+ com.cogniteq.ca.mvvm.sample.data.sql.datastore.info.InfoDao_Impl$6
+com/cogniteq/ca/mvvm/android/sample/R2.java
+ com.cogniteq.ca.mvvm.android.sample.R2
+ com.cogniteq.ca.mvvm.android.sample.R2$anim
+ com.cogniteq.ca.mvvm.android.sample.R2$attr
+ com.cogniteq.ca.mvvm.android.sample.R2$bool
+ com.cogniteq.ca.mvvm.android.sample.R2$color
+ com.cogniteq.ca.mvvm.android.sample.R2$dimen
+ com.cogniteq.ca.mvvm.android.sample.R2$drawable
+ com.cogniteq.ca.mvvm.android.sample.R2$id
+ com.cogniteq.ca.mvvm.android.sample.R2$integer
+ com.cogniteq.ca.mvvm.android.sample.R2$layout
+ com.cogniteq.ca.mvvm.android.sample.R2$menu
+ com.cogniteq.ca.mvvm.android.sample.R2$plurals
+ com.cogniteq.ca.mvvm.android.sample.R2$string
+ com.cogniteq.ca.mvvm.android.sample.R2$style
+ com.cogniteq.ca.mvvm.android.sample.R2$styleable
